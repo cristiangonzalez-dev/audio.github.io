@@ -41,6 +41,6 @@
         "nativePlayer": false,
         "customCSS": ""
     },
-    "description": "<p><a href=\"https://www.youtube.com/watch?v=4ULjv_hhNeg\" title=\"Video\" target=\"Video\">Video</a></p>",
+    "description":<p><a href=\"https://www.youtube.com/watch?v=4ULjv_hhNeg\" title=\"Video"\ target=\"Video"\>Video</a></p>
     "loopModeDefault": "playlist"
 }
